@@ -1,0 +1,50 @@
+@charset "utf-8";
+body {
+	
+	background-image: -webkit-linear-gradient(0deg,rgba(14,189,233,1.00) 0%,rgba(252,138,24,1.00) 100%);
+	background-image: -moz-linear-gradient(0deg,rgba(14,189,233,1.00) 0%,rgba(252,138,24,1.00) 100%);
+	background-image: -o-linear-gradient(0deg,rgba(14,189,233,1.00) 0%,rgba(252,138,24,1.00) 100%);
+	background-image: linear-gradient(90deg,rgba(14,189,233,1.00) 0%,rgba(252,138,24,1.00) 100%);
+}
+.teamsjumbo {
+	background-image: url(../Images/48859242137_177fef637e_o.jpg);
+	background-size: cover;
+}
+.teamsjumbotext {
+	color: #FFFFFF;
+}
+.teamsjumbotitle {
+	color: #FFFFFF;
+}
+
+
+
+.LECTitle {
+	text-align: center;
+
+}
+
+
+
+nav {
+	background-color: #FFFFFF;
+}
+.MissionBox {
+	background-color: #525252;
+}
+.Mission-header {
+	color: #FFFFFF;
+	text-align: center;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.btn {
+	background-color: #FFFFFF;
+	float: left;
+	text-align: center;
+	margin-left: 156px;
+}
+
+.Mission-msg {
+	color: #FFFFFF;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
