@@ -9,6 +9,7 @@ body {
 .teamsjumbo {
 	background-image: url(../Images/48859242137_177fef637e_o.jpg);
 	background-size: cover;
+	background-position: 0 33%;
 }
 .teamsjumbotext {
 	color: #FFFFFF;
@@ -50,4 +51,10 @@ nav {
 .Mission-msg {
 	color: #FFFFFF;
 	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+.AudiencePhoto {
+
+}
+.audiencepic {
+
 }
